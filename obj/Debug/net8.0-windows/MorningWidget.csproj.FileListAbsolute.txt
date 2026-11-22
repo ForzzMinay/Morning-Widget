@@ -1,0 +1,14 @@
+C:\Users\forzz\MorningWidget\obj\Debug\net8.0-windows\MorningWidget.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\forzz\MorningWidget\obj\Debug\net8.0-windows\MorningWidget.AssemblyInfoInputs.cache
+C:\Users\forzz\MorningWidget\obj\Debug\net8.0-windows\MorningWidget.AssemblyInfo.cs
+C:\Users\forzz\MorningWidget\obj\Debug\net8.0-windows\MorningWidget.csproj.CoreCompileInputs.cache
+C:\Users\forzz\MorningWidget\bin\Debug\net8.0-windows\MorningWidget.exe
+C:\Users\forzz\MorningWidget\bin\Debug\net8.0-windows\MorningWidget.deps.json
+C:\Users\forzz\MorningWidget\bin\Debug\net8.0-windows\MorningWidget.runtimeconfig.json
+C:\Users\forzz\MorningWidget\bin\Debug\net8.0-windows\MorningWidget.dll
+C:\Users\forzz\MorningWidget\bin\Debug\net8.0-windows\MorningWidget.pdb
+C:\Users\forzz\MorningWidget\obj\Debug\net8.0-windows\MorningWidget.dll
+C:\Users\forzz\MorningWidget\obj\Debug\net8.0-windows\refint\MorningWidget.dll
+C:\Users\forzz\MorningWidget\obj\Debug\net8.0-windows\MorningWidget.pdb
+C:\Users\forzz\MorningWidget\obj\Debug\net8.0-windows\MorningWidget.genruntimeconfig.cache
+C:\Users\forzz\MorningWidget\obj\Debug\net8.0-windows\ref\MorningWidget.dll
